@@ -1,2 +1,2 @@
 # java
-Advance Programming, Java. Netbeans IDE
+Advance Programming subject, Java. Using Netbeans IDE
